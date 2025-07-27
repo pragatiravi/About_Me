@@ -15,4 +15,4 @@
 
 📫 Reach out: [pragatiravi45@gmail.com](mailto:pragatiravi45@gmail.com)
 
-🌐 Let's build something meaningful and innovative — one line of code at a time.
+🌐 Open to collaborations, internships, and hackathons — let’s build impactful tech with clean code, smart AI, and stronger coffee.
