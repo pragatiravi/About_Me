@@ -1,10 +1,18 @@
-# about
+# 👋 Hi there! I'm Pragati Ravi
 
-# Hi there 👋
+🚀 Passionate about building smart, scalable, and AI-integrated solutions.
 
-I'm @pragatiravi  
-👀 I’m interested in coding, and AI fascinates me a lot.  
-🌱 I’m currently exploring Gen AI, web development and cloud computing.  
-💻 I am a web developer , also use AI for smart efficiency.  
-🤝 I’m looking to collaborate on real-time projects .  
-📫 Reach me at pragatigangoji218@gmail.com  
+💡 Exploring the intersections of **Gen AI**, **Web Development**, and **Cloud Computing** — combining traditional coding with modern AI efficiency.
+
+🔧 I'm a hands-on **Web Developer** with a flair for rapid prototyping using AI tools.
+
+🌱 Currently diving deeper into:
+- Full-stack projects (Python, JS, Flask)
+- AWS Cloud Architecture
+- GenAI tools and prompt engineering
+
+🤝 Open to collaborate on **real-world projects**, **internships**, and **hackathons** — especially where AI meets productivity.
+
+📫 Reach out: [pragatiravi45@gmail.com](mailto:pragatiravi45@gmail.com)
+
+🌐 Let's build something meaningful and innovative — one line of code at a time.
