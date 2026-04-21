@@ -1,18 +1,51 @@
-# 👋 Hi there! I'm Pragati Ravi
+# 👋 Hi, I'm Pragati Ravi
 
-🚀 Passionate about building smart, scalable, and AI-integrated solutions.
+🚀 I build **scalable, intelligent systems** at the intersection of **Cloud, Full-Stack Engineering, and Generative AI**.
 
-💡 Exploring the intersections of **Gen AI**, **Web Development**, and **Cloud Computing** — combining traditional coding with modern AI efficiency.
+I focus on designing solutions that are **production-ready, efficient, and aligned with real-world use cases**.
 
-🔧 I'm a hands-on **Web Developer** with a flair for rapid prototyping using AI tools.
+---
 
-🌱 Currently diving deeper into:
-- Full-stack projects (Python, JS, Flask)
-- AWS Cloud Architecture
-- GenAI tools and prompt engineering
+## 🚀 What I Do
+- 💻 Develop **full-stack applications** with clean architecture and responsive UI/UX  
+- ☁️ Design **cloud-native systems** with scalability and reliability  
+- 🤖 Leverage **Generative AI** to accelerate development and enhance product capabilities  
 
-🤝 Open to collaborate on **real-world projects**, **internships**, and **hackathons** — especially where AI meets productivity.
+---
 
-📫 Reach out: [pragatiravi45@gmail.com](mailto:pragatiravi45@gmail.com)
+## 💡 Current Focus
+- ☁️ **Cloud Engineering (AWS)** — architecture, deployment, system design  
+- 🌐 **Full-Stack Development** — Python, JavaScript, Flask  
+- 🧠 **Applied GenAI** — prompt engineering, AI-powered workflows  
 
-🌐 Open to collaborations, internships, and hackathons — let’s build impactful tech with clean code, smart AI, and stronger coffee.
+---
+
+## 🔧 Tech Stack
+- **Languages:** Python, JavaScript  
+- **Frameworks:** Flask, (expanding to modern JS frameworks)  
+- **Cloud:** AWS (learning & building projects)  
+- **Tools:** Git, GitHub, Postman, AI dev tools  
+
+---
+
+## ⚙️ Approach
+- ⚡ Build fast, but prioritize **clean, maintainable code**  
+- 🧩 Combine **traditional engineering + AI acceleration**  
+- 🎯 Focus on **real-world impact**, not just prototypes  
+
+---
+
+## 🤝 Open To
+- 🚀 Internships 
+- 🧠 Hackathons and product collaborations  
+- 💡 Projects solving real-world problems  
+
+---
+
+## 📫 Contact
+📧 [pragatiravi45@gmail.com](mailto:pragatiravi45@gmail.com)
+
+---
+
+## ⚡ Personal Note
+I aim to build systems that are **scalable, intelligent, and future-ready**.
