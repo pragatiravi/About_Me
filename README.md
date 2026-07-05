@@ -88,25 +88,7 @@ Computer Science Engineering Student • Cloud • DevOps • AI • Full Stack 
 
 ---
 
-# 🚀 Featured Projects
 
-### 🚀 NoQ (NoQueue)
-
-Smart Queue & Booking Platform for Clinics, Salons, Restaurants and Local Businesses.
-
----
-
-### ⚖️ LawForAll
-
-AI-powered civic education platform that simplifies the Indian Constitution and laws in multiple Indian languages.
-
----
-
-### ☁️ Cloud Resume Platform
-
-Production-ready portfolio deployed on AWS using Docker, Nginx and GitHub/GitLab CI/CD.
-
----
 
 # ⭐ Support
 
