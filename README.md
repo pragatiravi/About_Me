@@ -107,8 +107,6 @@ AI-powered civic education platform that simplifies the Indian Constitution and 
 Production-ready portfolio deployed on AWS using Docker, Nginx and GitHub/GitLab CI/CD.
 
 ---
----
----
 
 # ⭐ Support
 
