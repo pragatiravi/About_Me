@@ -107,25 +107,7 @@ AI-powered civic education platform that simplifies the Indian Constitution and 
 Production-ready portfolio deployed on AWS using Docker, Nginx and GitHub/GitLab CI/CD.
 
 ---
-
-# 📈 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pragatiravi&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
 ---
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pragatiravi&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
 ---
 
 # ⭐ Support
