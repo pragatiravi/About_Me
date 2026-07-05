@@ -20,13 +20,13 @@ Computer Science Engineering Student • Cloud • DevOps • AI • Full Stack 
 
 ### 👩‍💻 About Me
 
-- 🌱 Currently learning **AWS, Docker, Kubernetes & CI/CD**
-- 🎓 B.E. Computer Science Engineering at **AITM, Belagavi**
-- 💻 Interested in **Cloud Engineering, DevOps, AI & Backend Development**
-- 🚀 Building **NoQ (NoQueue)** & **LawForAll**
-- 🤝 Looking for **Cloud / DevOps Internship Opportunities**
-- 📫 **pragatiravi45@gmail.com**
-- ⚡ I enjoy building software that solves real-world problems.
+-  Currently learning **AWS, Docker, Kubernetes & CI/CD**
+-  B.E. Computer Science Engineering at **AITM, Belagavi**
+-  Interested in **Cloud Engineering, DevOps, AI & Backend Development**
+-  Building **NoQ (NoQueue)** & **LawForAll**
+-  Looking for **Cloud / DevOps Internship Opportunities**
+-  **pragatiravi45@gmail.com**
+-  I enjoy building software that solves real-world problems.
 
 </td>
 
