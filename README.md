@@ -42,13 +42,7 @@ Computer Science Engineering Student • Cloud • DevOps • AI • Full Stack 
 
 # 📊 My Statistics
 
-<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pragatiravi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragatiravi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
